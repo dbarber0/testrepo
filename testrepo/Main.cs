@@ -13,5 +13,10 @@ namespace testrepo
             //  User:dennis Branch:main Commit:0
             //  User:bob    Branch:main Commit:0
         }
+
+        public void Method1()
+        {
+            //  User:bob    Branch:main Commit:1
+        }
     }
 }
