@@ -23,5 +23,10 @@ namespace testrepo
             //  User:bob    Branch:main Commit:3
             //  User:bob    Branch:main Commit:4
         }
+
+        public void Dennis_Local_Method0()
+        {
+            //  User:dennis Branch:dennis-local Commit:0
+        }
     }
 }
