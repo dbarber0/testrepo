@@ -27,6 +27,7 @@ namespace testrepo
         public void Dennis_Local_Method0()
         {
             //  User:dennis Branch:dennis-local Commit:0
+            //  User:dennis Branch:dennis-local Commit:1
         }
     }
 }
