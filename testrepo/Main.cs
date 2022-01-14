@@ -32,5 +32,10 @@ namespace testrepo
             //  User:dennis Branch:dennis-local Commit:0
             //  User:dennis Branch:dennis-local Commit:1
         }
+
+        public void Bobs_Branch_Method0()
+        {
+            //  User:bob    Branch:bobs-branch Commit:0
+        }
     }
 }
