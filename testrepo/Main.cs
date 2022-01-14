@@ -14,6 +14,7 @@ namespace testrepo
             //  User:bob    Branch:main Commit:0
             //  User:bob    Branch:main Commit:5
             //  User:bob    Branch:main Commit:6
+            //  User:dennis Branch:main Commit:1
         }
 
         public void Method1()
