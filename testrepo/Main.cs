@@ -39,5 +39,10 @@ namespace testrepo
             //  User:bob    Branch:bobs-branch Commit:0
             //  User:bob    Branch:bobs-branch1 Commit:0
         }
+
+        public void DABs_Branch_Method0()
+        {
+            //  User:dennis    Branch:dabs-branch Commit:0
+        }
     }
 }
